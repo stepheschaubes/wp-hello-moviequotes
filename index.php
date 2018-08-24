@@ -20,46 +20,166 @@
 
 		$array = array(
 			array(
-				'quote' => 'Frankly, my dear, I don\'t give a damn..',
-				'by' => 'Rhett Butler',
-				'movie' => 'Gone with the Wind',
-				'year' => '1939',
+				"quote" => "Frankly, my dear, I don't give a damn..",
+				"by" => "Rhett Butler",
+				"movie" => "Gone with the Wind",
+				"year" => "1939",
 			),
 			array(
-				'quote' => 'I\'m gonna make him an offer he can\'t refuse.',
-				'by' => 'Vito Corleone',
-				'movie' => 'The Godfather',
-				'year' => '1972',
+				"quote" => "I'm gonna make him an offer he can't refuse.",
+				"by" => "Vito Corleone",
+				"movie" => "The Godfather",
+				"year" => "1972",
 			),
 			array(
-				'quote' => 'You don\'t understand! I coulda had class. I coulda been a contender. I could\'ve been somebody, instead of a bum, which is what I am.',
-				'by' => 'Terry Malloy',
-				'movie' => 'On the Waterfront',
-				'year' => '1954',
+				"quote" => "You don't understand! I coulda had class. I coulda been a contender. I could've been somebody, instead of a bum, which is what I am.",
+				"by" => "Terry Malloy",
+				"movie" => "On the Waterfront",
+				"year" => "1954",
 			),
 			array(
-				'quote' => 'Toto, I\'ve a feeling we\'re not in Kansas anymore.',
-				'by' => 'Dorothy Gale',
-				'movie' => 'The Wizard of Oz',
-				'year' => '1939',
+				"quote" => "Toto, I've a feeling we're not in Kansas anymore.",
+				"by" => "Dorothy Gale",
+				"movie" => "The Wizard of Oz",
+				"year" => "1939",
 			),
 			array(
-				'quote' => 'May the Force be with you.',
-				'by' => 'Han Solo',
-				'movie' => 'Star Wars',
-				'year' => '1977',
+				"quote" => "Here's looking at you, kid.",
+				"by" => "Rick Blaine",
+				"movie" => "Casablanca",
+				"year" => "1942",
 			),
 			array(
-				'quote' => 'I\'ll be back.',
-				'by' => 'The Terminator',
-				'movie' => 'The Terminator',
-				'year' => '1984',
+				"quote" => "Go ahead, make my day.",
+				"by" => "Harry Callahan",
+				"movie" => "Sudden Impact",
+				"year" => "1983",
 			),
 			array(
-				'quote' => 'Go ahead, make my day.',
-				'by' => 'Harry Callahan',
-				'movie' => 'Sudden Impact',
-				'year' => '1983',
+				"quote" => "All right, Mr. DeMille, I'm ready for my close-up.",
+				"by" => "Norma Desmond",
+				"movie" => "Sunset Boulevard",
+				"year" => "1950",
+			),
+			array(
+				"quote" => "May the Force be with you.",
+				"by" => "Han Solo",
+				"movie" => "Star Wars",
+				"year" => "1977",
+			),
+			array(
+				"quote" => "You talkin' to me?",
+				"by" => "Travis Bickle",
+				"movie" => "Taxi Driver",
+				"year" => "1976",
+			),
+			array(
+				"quote" => "What we've got here is failure to communicate.",
+				"by" => "Captain",
+				"movie" => "Cool Hand Luke",
+				"year" => "1967",
+			),
+			array(
+				"quote" => "I love the smell of napalm in the morning.",
+				"by" => "Lt. Col. Bill Kilgore",
+				"movie" => "Apocalypse Now",
+				"year" => "1979",
+			),
+			array(
+				"quote" => "Love means never having to say you're sorry.",
+				"by" => "Oliver Barrett IV",
+				"movie" => "Love Story",
+				"year" => "1970",
+			),
+			array(
+				"quote" => "The stuff that dreams are made of.",
+				"by" => "Sam Spade",
+				"movie" => "The Maltese Falcon",
+				"year" => "1941",
+			),
+			array(
+				"quote" => "E.T. phone home.",
+				"by" => "E.T.",
+				"movie" => "E.T. the Extra-Terrestrial",
+				"year" => "1982",
+			),
+			array(
+				"quote" => "They call me Mister Tibbs!",
+				"by" => "Virgil Tibbs",
+				"movie" => "In the Heat of the Night",
+				"year" => "1967",
+			),
+			array(
+				"quote" => "Rosebud.",
+				"by" => "Charles Foster Kane",
+				"movie" => "Citizen Kane",
+				"year" => "1941",
+			),
+			array(
+				"quote" => "Made it, Ma! Top of the world!",
+				"by" => "Arthur \"Cody\" Jarrett",
+				"movie" => "White Heat",
+				"year" => "1949",
+			),
+			array(
+				"quote" => "I'm as mad as hell, and I'm not going to take this anymore!",
+				"by" => "Howard Beale",
+				"movie" => "Network",
+				"year" => "1976",
+			),
+			array(
+				"quote" => "Louis, I think this is the beginning of a beautiful friendship.",
+				"by" => "Rick Blaine",
+				"movie" => "Casablanca",
+				"year" => "1942",
+			),
+			array(
+				"quote" => "quote",
+				"by" => "name",
+				"movie" => "movie",
+				"year" => "year",
+			),
+			array(
+				"quote" => "quote",
+				"by" => "name",
+				"movie" => "movie",
+				"year" => "year",
+			),
+			array(
+				"quote" => "quote",
+				"by" => "name",
+				"movie" => "movie",
+				"year" => "year",
+			),
+			array(
+				"quote" => "quote",
+				"by" => "name",
+				"movie" => "movie",
+				"year" => "year",
+			),
+			array(
+				"quote" => "quote",
+				"by" => "name",
+				"movie" => "movie",
+				"year" => "year",
+			),
+			array(
+				"quote" => "quote",
+				"by" => "name",
+				"movie" => "movie",
+				"year" => "year",
+			),
+			array(
+				"quote" => "quote",
+				"by" => "name",
+				"movie" => "movie",
+				"year" => "year",
+			),
+			array(
+				"quote" => "I'll be back.",
+				"by" => "The Terminator",
+				"movie" => "The Terminator",
+				"year" => "1984",
 			),
 		);
 
@@ -79,10 +199,10 @@
 
 
 	function hello_css() {
-		$x = is_rtl() ? 'left' : 'right';
+		$x = is_rtl() ? "left" : "right";
 
 		echo "
-			<style type='text/css'>
+			<style type=\"text/css\">
 				#hello-mq {
 					width: 20%;
 					height: auto;
